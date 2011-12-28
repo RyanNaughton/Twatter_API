@@ -1,0 +1,4 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+bob:
+  name: bob
